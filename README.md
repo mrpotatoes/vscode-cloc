@@ -7,4 +7,4 @@ Output to YAML and read it that way.
 
 Make the warnings/errors configurable
  
-Shows in the bottom activity bar. Yellow if getting within 10% of max, red if at or exceeds max. Configure if just text or whole bar changes color.
+Shows in the bottom activity bar. Yellow if getting within 10% of max, red if at or exceeds max. Configure if just text or whole bar changes color. Colors are configurable.
